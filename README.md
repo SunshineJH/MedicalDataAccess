@@ -96,11 +96,10 @@ We have now had a look at the code for the smart contract. Once the msart contra
 <img width="350" height="100" alt="image" src="https://github.com/user-attachments/assets/555a4d07-9240-4bb3-9e6d-85fc1a983946" />
 </br> </br>
 Once thisn is setup we can deploy and verify our smart contract. I used the Anvil tool within Foundry to do this. When I found that the smart contract was successful I used the Foundry Tool "Chisel" to Interact with contracts, send transactions, and retrieve chain data.
-
+</br> </br>
 Now my smart contract is developed, tested, debugged, deployed, and Verified. I handed my code over to my teammate toproduce the front-end user interface in StreamLit.
-
-To take a look at the whole smart contract please sea the file
+</br> </br>
+To take a look at the whole smart contract please sea the file MedicalDataAccess.sol in the src directory. I also developed the script file to run the smart contract wich can be found in the script directoery.
+</br> </br>
 Thank you.
-
-
-Comment:  <!-- This is a comment -->
+</br> </br>
